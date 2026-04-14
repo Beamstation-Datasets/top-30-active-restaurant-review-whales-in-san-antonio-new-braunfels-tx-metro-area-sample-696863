@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in San Antonio-New Braunfels, TX Metro Area, US",
+  "export_job_id": "f37d5379-cdb2-4c1c-be68-d8721d88b3b8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 696863,
+  "location_name": "San Antonio-New Braunfels, TX",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-san-antonio-new-braunfels-tx-metro-area-sample-696863",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/696863/beamstation_696863_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
+  "sample_pct": 0.66,
+  "sample_records": 10,
+  "sample_sha256": "56467edd03492ae04091697f674fe1e1d582caf09f37d1e36b9a832647f6d21b",
+  "sample_size_bytes": 60252,
+  "total_records": 1520,
+  "updated_at": "2026-04-01T00:41:27.420427+00:00"
+}
