@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f37d5379-cdb2-4c1c-be68-d8721d88b3b8",
+  "id_short": 696863,
+  "published_at": "2026-04-14T19:45:40Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-san-antonio-new-braunfels-tx-metro-area-sample-696863",
+  "sample_asset_name": "beamstation_696863_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/696863/beamstation_696863_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "56467edd03492ae04091697f674fe1e1d582caf09f37d1e36b9a832647f6d21b",
+  "sample_size_bytes": 60252,
+  "total_records": 1520
+}
