@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in San Antonio-New Braunfels, TX Metro Area, US
 
-> Free BeamStation sample export with 158 rows and masked direct-contact fields.
+> Free BeamStation sample export with 186 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `696863` |
 | Location | San Antonio-New Braunfels, TX |
 | Category | Restaurants |
-| Full dataset size | 1,586 records |
-| Free sample size | 158 records (9.96%) |
-| Last export | 2026-04-22T07:27:56.202651+00:00 |
+| Full dataset size | 1,867 records |
+| Free sample size | 186 records (9.96%) |
+| Last export | 2026-04-29T09:26:48.562287+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-san-antonio-new-braunfels-tx-metro-area-sample-696863/releases/download/sample-latest/beamstation_696863_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
